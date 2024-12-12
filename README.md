@@ -1,1 +1,1 @@
-Web app that allows students to submit reports for their internship, make use of java servlets
+A web application enabling students to submit internship reports, built using Java Servlets for server-side processing.
